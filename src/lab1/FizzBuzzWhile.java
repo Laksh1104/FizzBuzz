@@ -10,7 +10,6 @@ public class FizzBuzzWhile {
 
             // Update the value of i
             i++;
-
         }
     }
 
